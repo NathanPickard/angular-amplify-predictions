@@ -10,6 +10,14 @@
       "StackName": "amplify-angularamplifypredic-dev-164708",
       "StackId": "arn:aws:cloudformation:us-west-2:854875202353:stack/amplify-angularamplifypredic-dev-164708/5ce7ec20-6ac8-11ed-b13d-02e8f9cb39a5",
       "AmplifyAppId": "d226xl4me4ui"
+    },
+    "categories": {
+      "auth": {
+        "angularamplifypredic8b164903": {}
+      },
+      "predictions": {
+        "identifyLabelse6cba163": {}
+      }
     }
   }
 }
